@@ -22,7 +22,7 @@
 
 
 <p>Nebraska remains one of the strongest programs in the country, consistently entering the postseason with top rankings, dominant records, and high expectations. However, despite their dominance in the regular season, the Huskers have repeatedly fallen short of a national title over the past few seasons, often coming heartbreakingly close.</p>
-<p>This past 2025 season, the Huskers finished the season at 33-1. They opened the NCAA Tournament with a three-set sweep over Kansas State and advanced through the Sweet 16 by beating No.&nbsp;16 Kansas, again in three straight sets. However, the Huskers’ run ended in the Elite 8 after a hard-fought, five-set battle against Texas A&amp;M, who went on to win the title. Despite the Huskers’ tough end to a season, Nebraska remains the standard that many programs and fans look to.</p>
+<p>This past 2025 season, the Huskers finished the season at 33-1. They opened the NCAA Tournament with a three-set sweep over Kansas State and advanced through the Sweet 16 by beating No.&nbsp;16 Kansas, again in three straight sets. However, the Huskers’ run ended in the Elite 8 after a hard-fought, five-set battle against Texas A&amp;M, who went on to win the title. Despite the Huskers’ tough end to the season, Nebraska remains the standard that many programs and fans look to.</p>
 <p>Is Nebraska an outlier in finishing short of its goal? Compared to other top seeds, the answer is no. Several teams saw their rankings sihft between the start of the tournament and the final standings. In the final top 10, Nebraska and Texas saw the largest drops: Nebraska fell from No.&nbsp;1 to No.&nbsp;3, while Texas dropped from No.&nbsp;3 to No.&nbsp;6. Other teams also used the tournament to improve their rankings. Texas A&amp;M and Wisconsin saw the most improvement, both jumping five spots: Texas A&amp;M from No.&nbsp;6 to No.&nbsp;1, and Wisconsin from No.&nbsp;10 to No.5.</p>
 <div class="cell">
 <details class="code-fold">
@@ -1990,7 +1990,7 @@ font-style: inherit;">source_note =</span> <span class="fu" style="color: #4758A
 background-color: null;
 font-style: inherit;">md</span>(<span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"**By:** Marlee Pinnt  |  **Source:** huskers.com"</span>)</span>
+font-style: inherit;">"**By:** Marlee Pinnt  |  **Source:** huskers.com/sports/volleyball/stats"</span>)</span>
 <span id="cb2-85">  ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">|&gt;</span></span>
@@ -2117,23 +2117,23 @@ font-style: inherit;">"Average Assists"</span>)</span>
 <span id="cb2-106">  )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
-<div id="knlrjtrndw" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#knlrjtrndw table {
+<div id="tbzgctlsdz" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#tbzgctlsdz table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#knlrjtrndw thead, #knlrjtrndw tbody, #knlrjtrndw tfoot, #knlrjtrndw tr, #knlrjtrndw td, #knlrjtrndw th {
+#tbzgctlsdz thead, #tbzgctlsdz tbody, #tbzgctlsdz tfoot, #tbzgctlsdz tr, #tbzgctlsdz td, #tbzgctlsdz th {
   border-style: none;
 }
 
-#knlrjtrndw p {
+#tbzgctlsdz p {
   margin: 0;
   padding: 0;
 }
 
-#knlrjtrndw .gt_table {
+#tbzgctlsdz .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -2159,12 +2159,12 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-left-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_caption {
+#tbzgctlsdz .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#knlrjtrndw .gt_title {
+#tbzgctlsdz .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -2176,7 +2176,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-bottom-width: 0;
 }
 
-#knlrjtrndw .gt_subtitle {
+#tbzgctlsdz .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -2188,7 +2188,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-top-width: 0;
 }
 
-#knlrjtrndw .gt_heading {
+#tbzgctlsdz .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2200,13 +2200,13 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_bottom_border {
+#tbzgctlsdz .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_col_headings {
+#tbzgctlsdz .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2221,7 +2221,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_col_heading {
+#tbzgctlsdz .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2241,7 +2241,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   overflow-x: hidden;
 }
 
-#knlrjtrndw .gt_column_spanner_outer {
+#tbzgctlsdz .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2253,15 +2253,15 @@ font-style: inherit;">"Average Assists"</span>)</span>
   padding-right: 4px;
 }
 
-#knlrjtrndw .gt_column_spanner_outer:first-child {
+#tbzgctlsdz .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#knlrjtrndw .gt_column_spanner_outer:last-child {
+#tbzgctlsdz .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#knlrjtrndw .gt_column_spanner {
+#tbzgctlsdz .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2273,11 +2273,11 @@ font-style: inherit;">"Average Assists"</span>)</span>
   width: 100%;
 }
 
-#knlrjtrndw .gt_spanner_row {
+#tbzgctlsdz .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#knlrjtrndw .gt_group_heading {
+#tbzgctlsdz .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2303,7 +2303,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   text-align: left;
 }
 
-#knlrjtrndw .gt_empty_group_heading {
+#tbzgctlsdz .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2318,15 +2318,15 @@ font-style: inherit;">"Average Assists"</span>)</span>
   vertical-align: middle;
 }
 
-#knlrjtrndw .gt_from_md > :first-child {
+#tbzgctlsdz .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#knlrjtrndw .gt_from_md > :last-child {
+#tbzgctlsdz .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#knlrjtrndw .gt_row {
+#tbzgctlsdz .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2345,7 +2345,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   overflow-x: hidden;
 }
 
-#knlrjtrndw .gt_stub {
+#tbzgctlsdz .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2358,7 +2358,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   padding-right: 5px;
 }
 
-#knlrjtrndw .gt_stub_row_group {
+#tbzgctlsdz .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2372,15 +2372,15 @@ font-style: inherit;">"Average Assists"</span>)</span>
   vertical-align: top;
 }
 
-#knlrjtrndw .gt_row_group_first td {
+#tbzgctlsdz .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#knlrjtrndw .gt_row_group_first th {
+#tbzgctlsdz .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#knlrjtrndw .gt_summary_row {
+#tbzgctlsdz .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2390,16 +2390,16 @@ font-style: inherit;">"Average Assists"</span>)</span>
   padding-right: 5px;
 }
 
-#knlrjtrndw .gt_first_summary_row {
+#tbzgctlsdz .gt_first_summary_row {
   border-top-style: none;
   border-top-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_first_summary_row.thick {
+#tbzgctlsdz .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#knlrjtrndw .gt_last_summary_row {
+#tbzgctlsdz .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2409,7 +2409,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_grand_summary_row {
+#tbzgctlsdz .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2419,7 +2419,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   padding-right: 5px;
 }
 
-#knlrjtrndw .gt_first_grand_summary_row {
+#tbzgctlsdz .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2429,7 +2429,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-top-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_last_grand_summary_row_top {
+#tbzgctlsdz .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2439,11 +2439,11 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_striped {
+#tbzgctlsdz .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#knlrjtrndw .gt_table_body {
+#tbzgctlsdz .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2452,7 +2452,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_footnotes {
+#tbzgctlsdz .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2466,7 +2466,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_footnote {
+#tbzgctlsdz .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -2475,7 +2475,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   padding-right: 5px;
 }
 
-#knlrjtrndw .gt_sourcenotes {
+#tbzgctlsdz .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2489,7 +2489,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#knlrjtrndw .gt_sourcenote {
+#tbzgctlsdz .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -2497,72 +2497,72 @@ font-style: inherit;">"Average Assists"</span>)</span>
   padding-right: 5px;
 }
 
-#knlrjtrndw .gt_left {
+#tbzgctlsdz .gt_left {
   text-align: left;
 }
 
-#knlrjtrndw .gt_center {
+#tbzgctlsdz .gt_center {
   text-align: center;
 }
 
-#knlrjtrndw .gt_right {
+#tbzgctlsdz .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#knlrjtrndw .gt_font_normal {
+#tbzgctlsdz .gt_font_normal {
   font-weight: normal;
 }
 
-#knlrjtrndw .gt_font_bold {
+#tbzgctlsdz .gt_font_bold {
   font-weight: bold;
 }
 
-#knlrjtrndw .gt_font_italic {
+#tbzgctlsdz .gt_font_italic {
   font-style: italic;
 }
 
-#knlrjtrndw .gt_super {
+#tbzgctlsdz .gt_super {
   font-size: 65%;
 }
 
-#knlrjtrndw .gt_footnote_marks {
+#tbzgctlsdz .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#knlrjtrndw .gt_asterisk {
+#tbzgctlsdz .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#knlrjtrndw .gt_indent_1 {
+#tbzgctlsdz .gt_indent_1 {
   text-indent: 5px;
 }
 
-#knlrjtrndw .gt_indent_2 {
+#tbzgctlsdz .gt_indent_2 {
   text-indent: 10px;
 }
 
-#knlrjtrndw .gt_indent_3 {
+#tbzgctlsdz .gt_indent_3 {
   text-indent: 15px;
 }
 
-#knlrjtrndw .gt_indent_4 {
+#tbzgctlsdz .gt_indent_4 {
   text-indent: 20px;
 }
 
-#knlrjtrndw .gt_indent_5 {
+#tbzgctlsdz .gt_indent_5 {
   text-indent: 25px;
 }
 
-#knlrjtrndw .katex-display {
+#tbzgctlsdz .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#knlrjtrndw div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#tbzgctlsdz div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -2634,7 +2634,7 @@ font-style: inherit;">"Average Assists"</span>)</span>
 </tr>
 </tbody><tfoot>
 <tr class="gt_sourcenotes odd">
-<td colspan="3" class="gt_sourcenote"><strong>By:</strong> Marlee Pinnt | <strong>Source:</strong> huskers.com</td>
+<td colspan="3" class="gt_sourcenote"><strong>By:</strong> Marlee Pinnt | <strong>Source:</strong> huskers.com/sports/volleyball/stats</td>
 </tr>
 </tfoot>
 
